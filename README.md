@@ -1,14 +1,14 @@
 
 <h1 align="center">Hi 👋, I'm Martins</h1>
-<h3 align="center">A passionate web developer</h3>
+<h3 align="center">A passionate frontend/Backend developer</h3>
 
-- 🔭 I’m currently working on **A website**
+- 🔭 I’m currently working on ** Building web application**
 
-- 🌱 I’m currently learning **HTML, CSS, JavaScript**
+- 🌱 I’m currently learning **HTML, CSS, JavaScript,React,Tailwind**
 
-- 👯 I’m looking to collaborate on **Design**
 
-- 🤝 I’m looking for help with **Money**
+
+
 
 - 💬 Ask me about **Whatsoever**
 
