@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **Whatsoever**
 
-- 📫 How to reach me **Lord martins fidelis agnail.com**
+- 📫 How to reach me **Lordmartinsfidelis@gmail.com**
 
 - ⚡ Fun fact **I'm sweet**
 
