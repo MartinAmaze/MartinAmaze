@@ -8,7 +8,7 @@
 
 - 👯 I’m looking to collaborate on challenging projects of interest
 
-- 💬 Ask me about **web-developmen**
+- 💬 Ask me about **web-development**
 
 - 📫 How to reach me **Lordmartinsfidelis@gmail.com**
 
