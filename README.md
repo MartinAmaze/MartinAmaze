@@ -4,13 +4,11 @@
 
 - 🔭 I’m currently working on ** Building web application**
 
-- 🌱 I’m currently learning **HTML, CSS, JavaScript,React,Tailwind**
+- 🌱 I’m currently learning **JavaScript,vue.js,React,Tailwind**
 
+👯 I’m looking to collaborate on challenging projects of interest
 
-
-
-
-- 💬 Ask me about **Whatsoever**
+- 💬 Ask me about **web-developmen**
 
 - 📫 How to reach me **Lordmartinsfidelis@gmail.com**
 
