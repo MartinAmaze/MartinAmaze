@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **JavaScript,vue.js,React,Tailwind**
 
-👯 I’m looking to collaborate on challenging projects of interest
+- 👯 I’m looking to collaborate on challenging projects of interest
 
 - 💬 Ask me about **web-developmen**
 
