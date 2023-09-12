@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **web-development**
 
-- 📫 How to reach me **Lordmartinsfidelis@gmail.com**
+- 📫 How to reach me **forgevergreatful@gmail.com**
 
 - ⚡ Fun fact **I'm sweet**
 
